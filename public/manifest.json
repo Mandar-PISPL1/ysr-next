@@ -1,0 +1,14 @@
+{
+  "name": " Your Spiritual Revolution",
+  "short_name": " Your Spiritual Revolution",
+  "theme_color": "#ffffff",
+  "background_color": "#004740",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+   
+  ],
+  "splash_pages": null
+}

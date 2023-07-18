@@ -1,0 +1,1 @@
+* changed banner from /comp/banners/banner

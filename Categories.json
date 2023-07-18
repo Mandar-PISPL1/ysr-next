@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Shop",
+    "slug": "shop"
+  },
+  {
+    "name": "Candles",
+    "slug": "candles"
+  },
+  {
+    "name": "Chakra Kits",
+    "slug": "chakra-kits"
+  },
+
+  {
+    "name": "Crystals & Gemstones",
+    "slug": "crystals-gemstones"
+  },
+  {
+    "name": "ebook",
+    "slug": "ebook"
+  },
+
+  {
+    "name": "Home Decor",
+    "slug": "home-decor"
+  },
+
+  {
+    "name": "Jewellery",
+    "slug": "jewellery"
+  },
+  {
+    "name": "Pyramid",
+    "slug": "pyramid"
+  },
+  {
+    "name": "Rakhi",
+    "slug": "rakhi"
+  },
+  {
+    "name": "Rudraksha",
+    "slug": "rudraksha"
+  },
+  {
+    "name": "Spiritual Kits",
+    "slug": "spiritual-kit"
+  },
+
+  {
+    "name": "Zodiac Kit",
+    "slug": "zodiac-kit"
+  }
+]
